@@ -1,0 +1,1 @@
+Proyecto basado en cuso 2024 de python que implementa el uso visto en todo el progreso. 
